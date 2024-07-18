@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# INIT FIU Website
 
-## Getting Started
+Welcome to the INIT FIU Website repository. This project is a collaborative effort involving a team of designers, developers, and students to create a dynamic and responsive website for the INIT FIU chapter.
 
-First, run the development server:
+You can view the live website [here](https://init-website-omega.vercel.app/home)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Project Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The INIT FIU Website aims to provide an informative and engaging online presence for the INIT FIU chapter. The website integrates with the Notion API to dynamically update club events information based on a Notion database, streamlining event management. It features a responsive UI developed using React and Tailwind CSS, ensuring an optimal user experience across various devices. Additionally, the project includes upgraded features such as enhanced authentication using NextAuth, and improved data fetching with the Fetch API. The backend is powered by Prisma for robust data handling and the use of Framer Motion adds smooth animations to enhance user interaction.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- TypeScript
+- Next.js
+- React
+- Tailwind CSS
+- Notion API
+- NextAuth
+- Prisma
+- Framer Motion
 
-## Learn More
+# Features
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Dynamic Event Management: Integration with Notion API to automatically update event information based on a Notion database.
+- Responsive Design: A user interface designed with React and Tailwind CSS to ensure responsiveness and ease of use on different devices.
+- Live Event Showcase: A dynamic section on the homepage that updates to feature current live events or workshops.
+- Partner Event Highlights: Space to honor partnerships with logos and details.
+- Project Showcase: Display innovative projects developed by participants in INIT Build, acting as a portfolio and progress tracker.
+- Admin Portal for Project Submission: With Markdown and Rich Text Editor support for easy content management.
