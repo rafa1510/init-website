@@ -2,7 +2,7 @@
 
 Welcome to the INIT FIU Website repository. This project is a collaborative effort involving a team of designers, developers, and students to create a dynamic and responsive website for the INIT FIU chapter.
 
-You can view the live website [here](https://init-website-omega.vercel.app/home)
+You can view the live website [here](https://init-website-lac.vercel.app/home)
 
 # Project Description
 
