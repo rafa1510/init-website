@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import GradientBorder from "@/components/GradientBorder";
 import { Title, AnimatedTitle } from "@/components/Title";
 import Link from "next/link";
